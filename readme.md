@@ -8,11 +8,14 @@
   ---
   ## project 2
   ### output
-![Alt text](<project 2/assets/output.png>)
+![output](<project 2/assets/output.png>)
+
+
+---
 
 ## project 3
  
 ### output
 
 
-![Alt text](<project 3/assets/output.png>)
+![output](<project 3/assets/output.png>)
