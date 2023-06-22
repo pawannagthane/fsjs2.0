@@ -37,3 +37,9 @@
 ![Alt text](<project 5/assets/output.png>)
 
 ---
+
+## project 6
+### output
+![Alt text](<project 6/assets/Output.png>)
+
+---
